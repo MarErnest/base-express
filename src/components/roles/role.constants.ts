@@ -1,0 +1,4 @@
+export enum SUPPORTED_ROLES {
+  SYSTEM = 'SYSTEM',
+  SUPER_ADMIN = 'SUPER_ADMIN'
+}
